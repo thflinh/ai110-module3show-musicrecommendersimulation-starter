@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Desert Mirage,Sahara Tone,world,adventurous,0.67,104,0.58,0.69,0.44
+12,Pixel Parade,Bit Blaster,chiptune,playful,0.88,142,0.73,0.85,0.08
+13,Velvet Hour,Blue Ember,r&b,romantic,0.52,96,0.80,0.74,0.47
+14,Cathedral Snow,Glass Pines,classical,calm,0.22,58,0.51,0.21,0.95
+15,Steel Horizon,Iron Vale,metal,aggressive,0.96,168,0.35,0.49,0.03
+16,Samba Breeze,Rio Sol,latin,uplifting,0.79,126,0.86,0.90,0.19
+17,Dusty Trails,Canyon Choir,country,nostalgic,0.46,92,0.66,0.55,0.63
+18,Tunnel Pulse,Metro Arc,drum and bass,focused,0.94,174,0.57,0.83,0.06
