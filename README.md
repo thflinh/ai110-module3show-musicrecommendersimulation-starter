@@ -37,7 +37,8 @@ Why scoring and ranking both matter:
 ---
 
 ### CLI Verification Screenshot
-![CLI Verification](assets/cli-verification.png)
+<img width="961" height="391" alt="Screenshot 2026-04-15 185320" src="https://github.com/user-attachments/assets/c6c60376-6286-4d33-9d57-d118f29c967b" />
+
 
 ---
 
@@ -91,9 +92,9 @@ Experiments run:
 - Observed that genre-heavy weighting can repeatedly place songs like `Gym Hero` near the top for upbeat profiles.
 
 ### Evaluation Screenshots by Profile
-![High-Energy Pop](assets/profile-high-energy-pop.png)
-![Chill Lofi](assets/profile-chill-lofi.png)
-![Deep Intense Rock](assets/profile-deep-intense-rock.png)
+<img width="756" height="509" alt="Screenshot 2026-04-15 185415" src="https://github.com/user-attachments/assets/bdc41a07-5576-423c-831e-44085fe13bdf" />
+<img width="752" height="494" alt="Screenshot 2026-04-15 185439" src="https://github.com/user-attachments/assets/40df7053-81ef-46e5-8388-1deb62f18188" />
+<img width="838" height="503" alt="Screenshot 2026-04-15 185555" src="https://github.com/user-attachments/assets/0b708947-032e-414e-8e32-67c1e7b5d6c6" />
 
 ---
 
