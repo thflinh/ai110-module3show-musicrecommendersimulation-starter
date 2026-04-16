@@ -36,6 +36,11 @@ Why scoring and ranking both matter:
 
 ---
 
+### CLI Verification Screenshot
+![CLI Verification](assets/cli-verification.png)
+
+---
+
 ## Getting Started
 
 ### Setup
@@ -84,6 +89,11 @@ Experiments run:
 - Performed a weight-shift thought experiment: doubling energy impact would increase cross-genre songs that match intensity, while reducing strict genre lock-in.
 - Compared with and without mood matching (manual reasoning): removing mood causes more false positives where songs are energetic but emotionally off.
 - Observed that genre-heavy weighting can repeatedly place songs like `Gym Hero` near the top for upbeat profiles.
+
+### Evaluation Screenshots by Profile
+![High-Energy Pop](assets/profile-high-energy-pop.png)
+![Chill Lofi](assets/profile-chill-lofi.png)
+![Deep Intense Rock](assets/profile-deep-intense-rock.png)
 
 ---
 
